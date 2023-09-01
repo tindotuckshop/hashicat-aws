@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. Tindo is learning Terraform.
+=======
+  Welcome to ${PREFIX}'s app. This is the catchy marketing phrase.
+>>>>>>> 70788956b6a487168795d3b0ccda51662c166dec
   <!-- END -->
 
   </div>
